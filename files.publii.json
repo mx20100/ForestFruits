@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "84088ab5b4e728eb94bfe3868bfdd87a"
+        "md5": "b77e0d55253b837ae7bd5e8ffbe61bd1"
     },
     {
         "path": "assets",
@@ -82,7 +82,7 @@
     {
         "path": "/authors/max-moors/index.html",
         "type": "file",
-        "md5": "e7b58826147098473703c6f955a7a78d"
+        "md5": "2594e94cffbe33388d0b54486a19d52e"
     },
     {
         "path": "forest-fruits-reptiles",
@@ -92,47 +92,47 @@
     {
         "path": "/forest-fruits-reptiles/index.html",
         "type": "file",
-        "md5": "61e912a5b49621c9a5b953d44fe83e24"
+        "md5": "d44112433313459ef9527c42623a8d93"
     },
     {
-        "path": "index",
+        "path": "forest-fruits-reptiles-home",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "index/bearded-dragons",
+        "path": "forest-fruits-reptiles-home/bearded-dragons",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/index/bearded-dragons/index.html",
+        "path": "/forest-fruits-reptiles-home/bearded-dragons/index.html",
         "type": "file",
-        "md5": "e6e7065f6014b2b82989b89907b4033f"
+        "md5": "78fa42ba490e478777bd5f7670398bca"
     },
     {
-        "path": "index/leopard-geckos",
+        "path": "forest-fruits-reptiles-home/leopard-geckos",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/index/leopard-geckos/index.html",
+        "path": "/forest-fruits-reptiles-home/leopard-geckos/index.html",
         "type": "file",
-        "md5": "083fb9933a0761857b08163bff5f82d3"
+        "md5": "6d1c18ab64f80daaadb9bafe72ed3153"
     },
     {
-        "path": "index/westernplains-hognose-snakes",
+        "path": "forest-fruits-reptiles-home/westernplains-hognose-snakes",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/index/westernplains-hognose-snakes/index.html",
+        "path": "/forest-fruits-reptiles-home/westernplains-hognose-snakes/index.html",
         "type": "file",
-        "md5": "7f08f6918d53895158c1746297366fc5"
+        "md5": "3f3140426078574f29deeb313422ef34"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "6eb942c21df2e1ffe39b3b43a9d7f5b9"
+        "md5": "ce0a3617c1dcbd396dee2640d992fe91"
     },
     {
         "path": "media",
@@ -422,7 +422,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "101fcc8901dd43b54f56666b5b75910e"
+        "md5": "279a7e4281235180cb64f401eeac345c"
     },
     {
         "path": "sitemap.xsl",
@@ -437,6 +437,6 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "3e33a4f036f998a9f548c3a36e514e72"
+        "md5": "1043f1697c09e25d093cc36688047979"
     }
 ]
