@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://forest-fruits-reptiles.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://forest-fruits-reptiles.com/</loc>
+</url>
+<url>
+<loc>https://forest-fruits-reptiles.com/forest-fruits-reptiles/</loc>
+<lastmod>2025-08-02T11:00:49+02:00</lastmod>
+<image:image>
+<image:loc>https://forest-fruits-reptiles.com/media/posts/1/17c7e86a-2937-4487-b247-4277039fecf7.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://forest-fruits-reptiles.com/index/bearded-dragons/</loc>
+</url>
+<url>
+<loc>https://forest-fruits-reptiles.com/index/leopard-geckos/</loc>
+</url>
+<url>
+<loc>https://forest-fruits-reptiles.com/index/westernplains-hognose-snakes/</loc>
+</url>
+</urlset>

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://forest-fruits-reptiles.com/sitemap.xml
