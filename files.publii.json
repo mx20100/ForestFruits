@@ -107,7 +107,7 @@
     {
         "path": "/forest-fruits-reptiles-home/bearded-dragons/index.html",
         "type": "file",
-        "md5": "78fa42ba490e478777bd5f7670398bca"
+        "md5": "fd05392e0a82112bf7f4823335d241d3"
     },
     {
         "path": "forest-fruits-reptiles-home/leopard-geckos",
@@ -333,36 +333,6 @@
         "path": "/media/posts/4/gallery/fdbabb52-a726-45fd-aade-06215fbd099f.jpg",
         "type": "file",
         "md5": "90e4d7b2577e1a179869a37104ee2343"
-    },
-    {
-        "path": "media/posts/5",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "media/posts/5/gallery",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/posts/5/gallery/IMG_5519-thumbnail.jpg",
-        "type": "file",
-        "md5": "1e7e0f759d144e160ffd7ba822f124b0"
-    },
-    {
-        "path": "/media/posts/5/gallery/IMG_5519.jpg",
-        "type": "file",
-        "md5": "cd2de7573ba21967d9b8aa0a7d7b6ab1"
-    },
-    {
-        "path": "/media/posts/5/gallery/IMG_5994-thumbnail.jpeg",
-        "type": "file",
-        "md5": "fb974a7fda334b39476ed432e7097ec6"
-    },
-    {
-        "path": "/media/posts/5/gallery/IMG_5994.jpeg",
-        "type": "file",
-        "md5": "5c743ee5f37aff9dadef793f305c9e4e"
     },
     {
         "path": "media/website",
